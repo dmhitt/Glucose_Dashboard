@@ -5,7 +5,7 @@ This project is a personal data dashboard that visualizes glucose measurements o
 
 ## Live Demo 🌐
 You can view a live demo of the Glucose Dashboard on GitHub Pages here:
-https://dmhitt.github.io/glucose_project/
+https://dmhitt.github.io/Glucose_Dashboard/
 
 ## Features ✨
 
