@@ -1,0 +1,262 @@
+[
+  {
+    "event_time":"2025-07-18T10:45:00",
+    "meal":"breakfast",
+    "food":"Coffee, oat milk, sugar"
+  },
+  {
+    "event_time":"2025-07-18T11:09:00",
+    "meal":"breakfast",
+    "food":"Overnight oats, protein powder, almond milk , chia seeds, blueberries"
+  },
+  {
+    "event_time":"2025-07-18T13:17:00",
+    "meal":"snack",
+    "food":"grapes"
+  },
+  {
+    "event_time":"2025-07-18T14:33:00",
+    "meal":"lunch",
+    "food":"greek salad with garbanzo beans, carrots, bell peppers, cucumber, olive oil, romaine lettuce, honey"
+  },
+  {
+    "event_time":"2025-07-18T16:09:00",
+    "meal":"lunch",
+    "food":"steak rib-eye grilled(lean onlhy eaten), farofa(eggs, casave flour, butter)"
+  },
+  {
+    "event_time":"2025-07-18T18:08:00",
+    "meal":"snack",
+    "food":"Coffe with oatmilk and sugar"
+  },
+  {
+    "event_time":"2025-07-18T23:18:00",
+    "meal":"snack",
+    "food":"green tea"
+  },
+  {
+    "event_time":"2025-07-22T09:20:00",
+    "meal":"breakfast",
+    "food":"Coffee oatmilk sugar"
+  },
+  {
+    "event_time":"2025-07-22T12:20:00",
+    "meal":"lunch",
+    "food":"Bread, ricotta cheese, chicken breat, carrots"
+  },
+  {
+    "event_time":"2025-07-22T13:10:00",
+    "meal":"snack",
+    "food":"Coffee oatmilk sugar"
+  },
+  {
+    "event_time":"2025-07-22T16:10:00",
+    "meal":"snack",
+    "food":"Bread, ricotta cheese, chicken breat, carrots and walnuts"
+  },
+  {
+    "event_time":"2025-07-22T17:26:00",
+    "meal":"snack",
+    "food":"Cashew vanilla yogurt from TJ"
+  },
+  {
+    "event_time":"2025-07-22T19:27:00",
+    "meal":"dinner",
+    "food":"chicken enchilladas home made, corn tortillas, gouda cheese, light sour cream , green chili peppers, green enchilada sauce"
+  },
+  {
+    "event_time":"2025-07-23T10:00:00",
+    "meal":"breakfast",
+    "food":"Coffe with oatmilk and sugar plus multigrain bread, peanut butter"
+  },
+  {
+    "event_time":"2025-07-23T12:53:00",
+    "meal":"snack",
+    "food":"Smoothie with almond milk, protein powder, banana, apple, chia seeds, oats"
+  },
+  {
+    "event_time":"2025-07-23T13:40:00",
+    "meal":"lunch",
+    "food":"chicken enchilladas home made, corn tortillas, gouda cheese, light sour cream , swiss cheese"
+  },
+  {
+    "event_time":"2025-07-23T19:31:00",
+    "meal":"dinner",
+    "food":"In-n-out hamburger with grilled onions, house salad , few fries and few raisins"
+  },
+  {
+    "event_time":"2025-07-24T10:00:00",
+    "meal":"breakfast",
+    "food":"latte coffe with oatmilk and sugar"
+  },
+  {
+    "event_time":"2025-07-24T11:30:00",
+    "meal":"breakfast",
+    "food":"Scrambed egg with cheese avocado multigraim breed"
+  },
+  {
+    "event_time":"2025-07-24T12:10:00",
+    "meal":"snack",
+    "food":"coffee with sugar"
+  },
+  {
+    "event_time":"2025-07-24T14:45:00",
+    "meal":"lunch",
+    "food":"chicken taquitos from costco and avocado"
+  },
+  {
+    "event_time":"2025-07-24T19:46:00",
+    "meal":"dinner",
+    "food":"black beans, brown rice ground beef (10% fat)"
+  },
+  {
+    "event_time":"2025-07-25T10:43:00",
+    "meal":"breakfast",
+    "food":"Latte coffe with Oat Milk and egg,  1\/2 cheese and sausage on a biscuit from Chick-fil-A"
+  },
+  {
+    "event_time":"2025-07-25T13:37:00",
+    "meal":"lunch",
+    "food":"papaya, black beans"
+  },
+  {
+    "event_time":"2025-07-25T16:06:00",
+    "meal":"snack",
+    "food":"ground beef(10 % of fat)"
+  },
+  {
+    "event_time":"2025-07-25T17:59:00",
+    "meal":"snack",
+    "food":"Latte coffe with honey"
+  },
+  {
+    "event_time":"2025-07-25T20:00:00",
+    "meal":"dinner",
+    "food":"Fish tacos homemade, mahi mahi, corn tortilla, low fat greek yogurt, cabbage, romaine lettuce"
+  },
+  {
+    "event_time":"2025-07-26T09:30:00",
+    "meal":"breakfast",
+    "food":"coffee with oat milk and sugar"
+  },
+  {
+    "event_time":"2025-07-26T12:00:00",
+    "meal":"lunch",
+    "food":"korean barbecure with lettuce, spring beans and very little rice"
+  },
+  {
+    "event_time":"2025-07-26T14:20:00",
+    "meal":"snack",
+    "food":"starbucks lavender latte with otamilk and half sugar - tall"
+  },
+  {
+    "event_time":"2025-07-26T16:10:00",
+    "meal":"snack",
+    "food":"Sandwich , deli turkey and ham, gouda cheese, multigrain breeed small"
+  },
+  {
+    "event_time":"2025-07-26T20:26:00",
+    "meal":"dinner",
+    "food":"2 slices zero zero pizza doppio zero, chicken sausage and mushrooms, ipa beer"
+  },
+  {
+    "event_time":"2025-07-27T10:22:00",
+    "meal":"breakfast",
+    "food":"Coffee almond milk coconut sugar"
+  },
+  {
+    "event_time":"2025-07-27T11:49:00",
+    "meal":"breakfast",
+    "food":"blueberries pancakes with syrup , 1 egg, 1 bacon uncured"
+  },
+  {
+    "event_time":"2025-07-27T13:17:00",
+    "meal":"other",
+    "food":"stress"
+  },
+  {
+    "event_time":"2025-07-27T14:50:00",
+    "meal":"lunch",
+    "food":"1\/2 slice zero zero pizza doppio zero, chicken sausage and mushrooms"
+  },
+  {
+    "event_time":"2025-07-27T16:10:00",
+    "meal":"lunch",
+    "food":"brown rice, black beans, banana"
+  },
+  {
+    "event_time":"2025-07-27T18:50:00",
+    "meal":"snack",
+    "food":"strawberries"
+  },
+  {
+    "event_time":"2025-07-27T19:57:00",
+    "meal":"dinner",
+    "food":"chicken tenders, coleslaw from  , brown rice and black beans"
+  },
+  {
+    "event_time":"2025-07-28T06:31:00",
+    "meal":"breakfast",
+    "food":"Coffee with coconut  sugar and almond milk and oat milk"
+  },
+  {
+    "event_time":"2025-07-28T10:55:00",
+    "meal":"snack",
+    "food":"breakfast bar"
+  },
+  {
+    "event_time":"2025-07-28T12:42:00",
+    "meal":"lunch",
+    "food":"Scrambled eggs with mushroom, bell pepper, baby spinach . Avocado . 1 slice of multigrain bread"
+  },
+  {
+    "event_time":"2025-07-28T16:20:00",
+    "meal":"snack",
+    "food":"Plantain and Coffee with coconut  sugar and almond milk and oat milk"
+  },
+  {
+    "event_time":"2025-07-28T19:49:00",
+    "meal":"dinner",
+    "food":"Pork tenderloin, salad with broccoli and kale, red potatoes in the oven"
+  },
+  {
+    "event_time":"2025-07-28T20:30:00",
+    "meal":"snack",
+    "food":"Queen of sheeba cake"
+  },
+  {
+    "event_time":"2025-07-29T10:37:00",
+    "meal":"breakfast",
+    "food":"Coffee with coconut  sugar and almond milk"
+  },
+  {
+    "event_time":"2025-07-29T11:21:00",
+    "meal":"breakfast",
+    "food":"Multigrain Breed 1 slice , egg avocado , ham"
+  },
+  {
+    "event_time":"2025-07-29T11:45:00",
+    "meal":"snack",
+    "food":"small piece of sheeba cake"
+  },
+  {
+    "event_time":"2025-07-29T12:05:00",
+    "meal":"snack",
+    "food":"coffee with raw sugar"
+  },
+  {
+    "event_time":"2025-07-29T16:00:00",
+    "meal":"snack",
+    "food":"banana, small piece of sheeba cake"
+  },
+  {
+    "event_time":"2025-07-29T16:30:00",
+    "meal":"lunch",
+    "food":"Jersey Mikes Ham and Provolone in wheat bread"
+  },
+  {
+    "event_time":"2025-07-29T19:43:00",
+    "meal":"dinner",
+    "food":"garbage salad, pork tenderloin in air fryer"
+  }
+]
