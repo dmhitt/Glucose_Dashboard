@@ -19,9 +19,9 @@ https://dmhitt.github.io/Glucose_Dashboard/
 ## Technologies Used 🚀
 
 * **HTML & CSS:** The foundational structure and styling of the webpage.
-* **Bootstrap 3:** A front-end framework used for responsive layout and styling.
+* **Bootstrap 5:** A front-end framework used for responsive layout and styling.
 * **JavaScript (ES6):** The core logic for data manipulation and event handling.
-* **D3.js (v5):** Used for fetching and parsing the local JSON data files.
+* **D3.js (v7):** Used for fetching and parsing the local JSON data files.
 * **Plotly.js (v2):** The powerful charting library used to create the interactive line graph.
 
 ---
