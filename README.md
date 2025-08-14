@@ -2,7 +2,6 @@
 
 This project is a personal data dashboard that visualizes glucose measurements over time. It allows users to track their glucose levels, filter the data by specific dates, and see food consumption events overlaid on the same graph for contextual analysis.
 
-
 ## Live Demo 🌐
 You can view a live demo of the Glucose Dashboard on GitHub Pages here:
 https://dmhitt.github.io/Glucose_Dashboard/
@@ -69,7 +68,7 @@ Contains an array of glucose measurements with timestamps.
 ```
 
 ### `food.json`
-Contains an array of food consuption events.
+Contains an array of food consumption events.
 
 ```json
 [
